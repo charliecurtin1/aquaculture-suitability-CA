@@ -23,6 +23,8 @@ Marine aquaculture has the potential to play an important role in the global foo
 
 [^2]: Gentry, R. R., Froehlich, H. E., Grimm, D., Kareiva, P., Parke, M., Rust, M., Gaines, S. D., & Halpern, B. S. Mapping the global potential for marine aquaculture. *Nature Ecology & Evolution*, 1, 1317-1324 (2017).
 
+Aquaculture doesn't only serve to enhance food supply directly, however. Beyond commercial aquaculture, the West Coast of the US contains potential for restoration and enhancement aquaculture. NOAA Fisheries^3^ describes restoration aquaculture as the rearing of fish to increase stock of threatened or endangered species, and enhancement aquaculture as the rearing of fish to support commercial or recreational fisheries through the increasing of fish stock.
+
 For this analysis, we will determine which Exclusive Economic Zones (EEZ) on the West Coast of the US are best suited to developing marine aquaculture for several species of oysters.\
 
 Based on previous research, we know that oysters needs the following conditions for optimal growth:\
@@ -326,3 +328,11 @@ aquaculture_fun("Yellowfin Tuna", 17.8, 31, -100, 0)
 # ideal depth (meters): -122-0
 aquaculture_fun("White Seabass", 8, 24, -122, 0)
 ```
+
+### References
+
+1.  Hall, S. J., Delaporte, A., Phillips, M. J., Beveridge, M. & O'Keefe, M. Blue Frontiers: Managing the Environmental Costs of Aquaculture (The WorldFish Center, Penang, Malaysia, 2011).
+
+2. Gentry, R. R., Froehlich, H. E., Grimm, D., Kareiva, P., Parke, M., Rust, M., Gaines, S. D., & Halpern, B. S. Mapping the global potential for marine aquaculture. *Nature Ecology & Evolution*, 1, 1317-1324 (2017).
+
+3. "Aquaculture on the West Coast". NOAA Fisheries. https://www.fisheries.noaa.gov/west-coast/aquaculture/aquaculture-west-coast
